@@ -1,2 +1,2 @@
 git is a version control system
-git is free softtware
+git is free softtware 
